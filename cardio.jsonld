@@ -1,0 +1,18 @@
+{
+  "@context": [
+    "https://openactive.io/",
+    "https://openactive.io/ns-beta"
+  ],
+  "type": "beta:ConceptCollection",
+  "id": "https://data.emduk.org/collections/cardio.jsonld",
+  "title": "Cardio",
+  "description": "Group Exercise and Dance classes considered good for Cardio.",
+  "beta:creator": "EMD UK",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "beta:member": [
+    "https://openactive.io/activity-list#25b963ea-e01e-4fd9-ba38-275f1d278ed6",
+    "https://openactive.io/activity-list#ed91a872-e006-424d-9e94-a0d7bdec5df9",
+    "https://openactive.io/activity-list#31853d3e-0583-43b1-a8b4-867d9ed85e97",
+    "https://openactive.io/activity-list#72871f24-fdcd-4a88-9400-9cb08b911e70"
+  ]
+}
