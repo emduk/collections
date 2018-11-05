@@ -5,9 +5,10 @@
   ],
   "type": "beta:ConceptCollection",
   "id": "https://data.emduk.org/collections/holistic.jsonld",
-  "title": "Holistic",
-  "description": "Group Exercise and Dance classes considered Holistic.",
-  "beta:creator": "EMD UK",
+  "prefLabel": "Holistic",
+  "definition": "Group Exercise and Dance classes considered Holistic.",
+  "beta:publisher": "EMD UK",
+  "inScheme": "https://openactive.io/activity-list",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "member": [
     "https://openactive.io/activity-list#6971ba4b-60e9-4f94-b11f-1f6436a88451",
