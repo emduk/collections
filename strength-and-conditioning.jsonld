@@ -5,9 +5,10 @@
   ],
   "type": "beta:ConceptCollection",
   "id": "https://data.emduk.org/collections/strength-and-conditioning.jsonld",
-  "title": "Strength and Conditioning",
-  "description": "Group Exercise and Dance classes considered good for Strength and Conditioning.",
-  "beta:creator": "EMD UK",
+  "prefLabel": "Strength and Conditioning",
+  "definition": "Group Exercise and Dance classes considered good for Strength and Conditioning.",
+  "beta:publisher": "EMD UK",
+  "inScheme": "https://openactive.io/activity-list",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "member": [
     "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
